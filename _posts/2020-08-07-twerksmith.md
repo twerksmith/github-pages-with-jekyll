@@ -1,3 +1,8 @@
+---
+title: "my first sample blog post"
+date: 2020-08-07
+---
+
 ## This is a quick draft of a blog post
 
 _i can type in itallics_
